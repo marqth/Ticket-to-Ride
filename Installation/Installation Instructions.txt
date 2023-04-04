@@ -1,0 +1,16 @@
+>Go to https://www.azul.com/downloads/?version=java-11-lts&package=jdk-fx#zulu
+	>Choose filters : Java Version : Java 11(LTS)
+			  Operating System : Yours
+			  Architecture : Yours
+			  Java Package : JDK FX
+	>Download the zulu folder
+>Go to https://openwebstart.com/download/
+	>Download the OpenWebStart version for your computer, and run the .exe file you just downloaded and follow the instructions
+	>Execute "OpenWebStart Settings"
+	>In the tab nammed "Gestionnaire de JVM" (JVM Manager), click on the ”Chercher localement.." (Search locally) button
+	>Verify you have the "11.0.16.1 Azul Systems, Inc" java version
+	>Disable all other java versions that OpenWebStart find by clicking on the 3 dots on the right of each line, and click "Désactiver la JVM" (Disable JVM)
+	>Go in the "Security" tab and activate the "Do not favor https requests" option
+>Download the "Devcube.jnlp" file, and launch it
+
+If everything went well, devcube should launch after these instructions
