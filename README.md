@@ -11,5 +11,5 @@ Note : You can change the number of players by modifying the parameter of the fu
 To use this program :  
   
 Be sure you have the right java environment in order to be able to launch Devcube (A software my school developped for its java courses)  
-Then, download the file ticket-to-ride.dc 
+Then, download the file ticket-to-ride.dc  
 Finally, launch devcube and open the "ticket-to-ride" file you just downloaded, and run the program !  
